@@ -8,6 +8,9 @@
     <div class="github">
         <a href="https://github.com/takaoS/portfolio_board" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-github-square fa-3x text-secondary"></i></a></div>
+    <div class="blog rounded-lg bg-secondary p-1">
+        <a href="https://takaolab.com/" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-wordpress fa-2x text-white"></i></a></div>
     <div class="page-top rounded-lg bg-secondary px-2">
         <a href="#">
             <i class="fas fa-angle-up fa-2x text-white"></i></a></div>
